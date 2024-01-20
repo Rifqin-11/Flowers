@@ -17,6 +17,11 @@ body{
     font-weight: 900;
     display: block;
 }
+
+.music{
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
 }
